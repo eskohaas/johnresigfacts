@@ -17,7 +17,7 @@ John Resig Facts
 * John Resig can kill two birds with Microsoft Edge. 
 * John Resig doesn't need a popup blocker. Popups just don't dare to annoy him. 
 * John Resig's Gmail address is john$gmail#com 
-* If US presidential elections where held on Stack Overflow, John Resig would be the perpetual Commander In Chief. 
+* If US presidential elections were held on Stack Overflow, John Resig would be the perpetual Commander In Chief. 
 * John Resig allowed the EU and Britain to use €() and £(), but they refused out of respect. 
 * John Resig can break the nbsp;. 
 * John Resig's browser of choice is Cross. 
